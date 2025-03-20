@@ -18,10 +18,10 @@ Les consommateurs primaires occupent une position fondamentale dans les chaînes
 ‘
 Leur rôle en tant que proie pour les prédateurs supérieurs est crucial pour le maintien de l'équilibre naturel et pour la survie des espèces carnivores qui dépendent d'elles pour leur alimentation. La santé et la taille des populations de consommateurs primaires peuvent donc avoir des implications significatives sur la stabilité globale des écosystèmes.
 
-<img src="/la-photosynthese/chainealimentaire.jpg" alt="shema chaine alimentaire" width="50%">
+<img src="/laphotosyntheseSVT/chainealimentaire.jpg" alt="shema chaine alimentaire" width="50%">
 
 Le rôle de la photosynthèse dans le maintien de la vie sur Terre: 
 Elle produit l’oxygène nécessaire à la respiration des êtres vivants. En effet, grâce à l’énergie fournie par le lumière du soleil, l’un des produits est de l’oxygène, qui est rejeté dans l’atmosphère. Sans cet apport constant d’O₂, l’atmosphère finirait par s’appauvrir et la respiration aérobie ne serait plus possible.
 Elle régule aussi le cycle du carbone en absorbant du CO₂, contribuant ainsi à limiter l’effet de serre et à stabiliser le climat. 
 
-<a href="/la-photosynthese/pagefinale/" class="btn">bravo ! terminer l'aventure </a>
+<a href="/laphotosyntheseSVT/pagefinale/" class="btn">bravo ! terminer l'aventure </a>

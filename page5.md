@@ -5,7 +5,7 @@ permalink: /page5/
 ---
 ## 5. Production de biomasse et réseaux trophiques
 
-<img src="/la-photosynthese/ppn.jpg" alt="shema de la ppn" width="50%">
+<img src="/laphotosyntheseSVT/ppn.jpg" alt="shema de la ppn" width="50%">
 
 La cellule chlorophyllienne bénéficie donc de la biomasse produite par la photosynthèse. La photosynthèse est l’entrée d’énergie dans la biosphère. Ensuite, il y a des transferts d’énergie au sein du monde vivant et des transferts de matière, notamment dans les chaînes alimentaires des réseaux trophiques.
 
@@ -16,4 +16,4 @@ Il y a des pertes au cours de la photosynthèse ainsi que des pertes au sein du 
 La majeure partie de la PPB va être « perdue » pour la biosphère puisque 80 % sont utilisés par la plante pour ses activités cellulaires, notamment pour sa respiration. Les 20 % restants vont permettre la croissance végétale : production de matière organique, croissance du végétal qui secondairement pourra éventuellement être consommé par un consommateur primaire. Cette croissance végétale correspond à la production primaire nette (PPN), c’est-à-dire la PPB à laquelle on retire tout ce qui a été perdu, notamment par respiration cellulaire.
 
 
-<a href="/la-photosynthese/page6/" class="btn">Continuer l'aventure</a>
+<a href="/laphotosyntheseSVT/page6/" class="btn">Continuer l'aventure</a>

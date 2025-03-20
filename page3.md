@@ -18,4 +18,4 @@ Types de chlorophylles :
 
 Sans la chlorophylle, aucune conversion d’énergie solaire ne serait possible, rendant toute vie sur Terre dépendante d’autres sources d’énergie.
 
-<a href="/la-photosynthese/page4/" class="btn">Continuer l'aventure</a>
+<a href="/laphotosyntheseSVT/page4/" class="btn">Continuer l'aventure</a>

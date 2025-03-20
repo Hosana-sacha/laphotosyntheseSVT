@@ -11,4 +11,4 @@ Pour les êtres vivants, il existe deux sources d'énergie : la lumière et les 
 
 La photosynthèse est une réaction de synthèse se produisant dans les cellules des plantes, permettant aux plantes, aux algues et à certaines bactéries de convertir l’énergie lumineuse en énergie chimique sous forme de molécules organiques (glucose).
 
-<a href="/la-photosynthese/page2/" class="btn">Continuer l'aventure</a>
+<a href="/laphotosyntheseSVT/page2/" class="btn">Continuer l'aventure</a>

@@ -9,7 +9,7 @@ Une voie métabolique est une série de réactions biochimiques transformant une
 
 La photosynthèse repose sur une réaction métabolique qui transforme des éléments inorganiques en matière organique (matière "organisée" par le vivant à partir des matières inertes).
 
-![Équation de la réaction](/la-photosynthese/equationreaction.jpg)
+![Équation de la réaction](/laphotosyntheseSVT/equationreaction.jpg)
 
 ### Réactifs :
 - **Dioxyde de carbone (CO₂)** : capté dans l’atmosphère et utilisé comme source de carbone.
@@ -23,4 +23,4 @@ En présence de lumière, les cellules chlorophylliennes des végétaux réalise
 
 En produisant du glucose, les végétaux produisent de la matière organique. Ce glucose peut être transformé et stocké sous forme de différentes matières organiques, soit glucidiques comme le glucose, soit d’autres natures : par exemple, le végétal produit ses protéines à partir du glucose formé initialement par photosynthèse. Ce glucose peut aussi être utilisé par la cellule, qui a besoin d’énergie pour vivre et faire ses activités cellulaires.
 
-<a href="/la-photosynthese/page3/" class="btn">Continuer l'aventure</a>
+<a href="/laphotosyntheseSVT/page3/" class="btn">Continuer l'aventure</a>
