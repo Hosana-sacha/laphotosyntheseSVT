@@ -27,7 +27,7 @@ aujourd'hui on va s'interesser à un processus pationnant que tout le monde aime
 
 ## 3. Dr. Maissa
 <div class="container">
-  <img src="/la-photosynthese/maissa.jpeg" alt="Image" class="left-image">
+  <img src="/la-photosynthese/maissa.jpg" alt="Image" class="left-image">
   <p class="right-text">Je suis Dr Ben Ameur, une scientifique fascinée par les mystères de la photosynthèse. Mon travail explore des théories novatrices sur les mécanismes cachés de ce processus vital, cherchant à repousser les limites de ce que nous savons sur l’énergie solaire et les plantes.</p>
 </div>
 
