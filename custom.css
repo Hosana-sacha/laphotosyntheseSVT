@@ -1,0 +1,267 @@
+
+
+/**
+ * Buttons (secondary or sec and principal or princ)
+ */
+
+ .btnsec{
+    width: 152px; /* Réduit la largeur du bouton */
+    height: 45px; /* Réduit la hauteur du bouton */
+    color: #fff !important;
+    background: #000;
+    font-size: 15px; /* Réduit la taille de la police */
+    text-decoration: none !important;
+    margin: 7px auto; /* Réduit l'espacement autour du bouton */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px; /*rondeure du bouton*/
+  }
+  
+  .btn1 span{
+    margin-left: 7px; /* Réduit l'espace entre le span (fleche) et le texte */
+    width: 0;
+    font-size: 18px; /*taille de la fleche ou plutot épaisseur même si ce n'est pas vrm*/
+    overflow: hidden;
+    transition: 0.3s;
+  }
+  
+  .btn1:hover span{
+    width: 30px; /* taille du span (fleche) qui va passer de 0px a cette valeur pour la rendre visible */
+    color: #fff !important;
+  }
+  
+/* Sticky Navbar for the home page */
+.site-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: black;
+    padding: 10px;
+    color: white !important; /* Add this to ensure the text is white */
+    text-align: center;
+    z-index: 1000;
+}
+
+.site-nav a {
+    color: white !important; /* Ensure links are white */
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.site-nav a:hover {
+    text-decoration: underline; /* Optional: adds an underline when hovering over links */
+}
+
+/* Section Styling */
+section {
+    padding: 100px 20px;
+    min-height: 100vh;
+}
+
+.scroll-section {
+    margin: 50px 0;
+    padding: 20px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.scroll-section:hover {
+    transform: scale(1.05);
+}
+
+.scroll-section h2 {
+    font-size: 2em;
+    color: #333;
+}
+
+.scroll-section p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* Card Styling */
+.card {
+    background: #f4f4f4;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.card h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.card p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Make the entire card clickable */
+.card-link {
+    display: block;
+    text-decoration: none; /* Removes underline from link */
+    color: inherit; /* Inherits the color from the parent (e.g., the text color) */
+    padding: 20px;
+    border: 2px solid #ccc; /* Border around the card */
+    border-radius: 8px; /* Rounded corners for the card */
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.card-link:hover {
+    background-color: #f0f0f0; /* Hover background color */
+    transform: translateY(-5px); /* Slight lift effect on hover */
+}
+
+/* Button Styling */
+.btn {
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #444;
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/*wait a sec*/ 
+.site-header {
+  background-color: 	#FFE4C4;
+  padding: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.site-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.left-links, .right-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-element {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1; /* Permet au logo d'être centré */
+}
+
+.logo {
+  height: 50px; /* Ajuste la taille du logo selon tes besoins */
+}
+
+.header-button {
+  text-decoration: none;
+  color: #333;
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+}
+
+.header-button:hover {
+  background-color: #dcdcdc;
+}
+
+
+/*new things*/ 
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('/la-photosynthese/background.jpg') repeat-y center top; 
+  background-size: 100% auto; /* L'image prend toute la largeur, hauteur automatique */
+  background-attachment: fixed; /* Fixe le fond */
+  z-index: -1; /* L'image reste en arrière-plan */
+}
+
+.wrapper {
+  max-width: 1050px; /* Ajuste la largeur du contenu */
+  margin: 0 auto;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: relative; /* Assure que le fond blanc recouvre bien le texte */
+}
+
+/* Assure que le header est bien positionné */
+.header {
+  position: fixed; /* Ou relative si nécessaire */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 82px; /* Hauteur du header */
+  background-color: white; /* Ajuste selon ton design */
+  z-index: 1000;
+}
+
+/* Ajustement des pubs */
+.sidebar-left,
+.sidebar-right {
+  position: absolute; /* Attaché au bas du header */
+  top: 82px; /* Juste sous le header */
+  width: 86px; /* Réduction de 150% (150px / 1.5 = 100px) */
+  height: calc(100vh - 82px); /* Ajuste la hauteur pour ne pas dépasser */
+  background-color: rgba(255, 255, 255, 0.4); /* Optionnel : Fond semi-transparent */
+  z-index: 2;
+  display: flex;
+  flex-direction: column; /* Alignement vertical des pubs */
+  align-items: center; /* Centre les images horizontalement */
+  padding-top: 10px; /* Espacement optionnel */
+}
+
+.sidebar-left {
+  left: 0;
+}
+
+.sidebar-right {
+  right: 0;
+}
+
+.sidebar-left img,
+.sidebar-right img {
+  width: 100%; /* Prend toute la largeur de la div réduite */
+  display: block;
+  margin: 10px 0; /* Espacement entre les images */
+}
+
+
+.container {
+  display: flex; /* Met l'image et le texte sur la même ligne */
+  align-items: center; /* Centre verticalement */
+  gap: 20px; /* Espace entre l'image et le texte */
+}
+
+.left-image {
+  width: 150px; /* Taille de l'image (ajuste selon ton besoin) */
+  height: auto;
+}
+
+.right-text {
+  flex: 1; /* Permet au texte de prendre l'espace restant */
+}

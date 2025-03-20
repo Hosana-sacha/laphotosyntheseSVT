@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  
+
+  <head>
+    {%- include head.html -%}
+
+    <!-- Add GSAP Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+    <!-- Add ScrollTrigger Plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
+
+  </head>
+
+  <body>
+    <div class="background-image" style="background-image: url('/la-photosynthese/background.jpg');"></div>
+    <div class="sidebar-left">
+      <img src="/la-photosynthese/pub1-(3).jpg" alt="Publicité 1">
+      <img src="/la-photosynthese/pub1-(2).jpg" alt="Publicité 2">
+    </div>
+    
+    <div class="sidebar-right">
+      <img src="/la-photosynthese/pub1-(3).jpg" alt="Publicité 3">
+      <img src="/la-photosynthese/pub1-(1).jpg" alt="Publicité 4">
+    </div>
+    
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <!-- Ensure custom.css is loaded after main.css -->
+    <link rel="stylesheet" href="{{'/assets/main.css'|relative_url}}">
+    <link rel="stylesheet" href="{{'custom.css'|relative_url}}">
+    
+  </body>
+</html>
+
